@@ -17,7 +17,7 @@ I used the Kotlin language to write the code.
 I ran my code on Visual Studio code
 
 
-Kotlin language is a new language interoperable with java. It's used minly fot Android apps
+Kotlin language is a new language interoperable with java. It's used mainly for Android apps
 
 # Useful Websites
 
